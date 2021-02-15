@@ -7,3 +7,9 @@ financial spreadsheets and also word documents
 2) True or false: Git is a distributed version control tool
 Answer: True
 
+3) True or false: A single commit can include changes for multiple files.
+Answer: True
+Justification: You can add all the untracked files to the staged location by using either git add . or git add -all. This will add all the existing files to the staging location.
+
+
+
