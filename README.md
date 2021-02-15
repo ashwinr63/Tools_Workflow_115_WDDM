@@ -11,5 +11,8 @@ Answer: True
 Answer: True
 Justification: You can add all the untracked files to the staged location by using either git add . or git add -all. This will add all the existing files to the staging location.
 
+4) True or false: A Git repository can only contain one branch.
+Answer:False
+Justification: Git repository can have multiple branches. 
 
 
