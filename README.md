@@ -15,4 +15,7 @@ Justification: You can add all the untracked files to the staged location by usi
 Answer:False
 Justification: Git repository can have multiple branches. 
 
-
+5) True or false: Commits are organized in chronological order. 
+Answer: True
+Justification: Git commits can be organized by date of commit and also by author's name
+Git commit can also be organized by committed often and with suitable backup of the commit, we can be able to push the commit once instead of many times.
