@@ -21,3 +21,8 @@ some can be content based.
 4) Assuming that you are currently within a Git repository that includes several commits, write the command (or commands) that will display the changes from the commit with the ID of abc123.
 	
 Solution : there are various ways to check the commit changes between 2 different commits. if we are looking for a specific ID then the command 'git diff abc123' can be used to check the difference in commits and display the changes
+
+5) Assuming that you are currently within a Git repository that includes multiple commits, write the command (or commands) that will display the IDs and commit messages for the 3 most recent commits.
+
+Solution: Most common solution to check the ID and commit messages would be the command "git log --oneline" however if we are supposed to get only the last 3 commits then the command "git log --oneline -3" would be suitable to check the last 3 recent commits made.
+
