@@ -18,3 +18,6 @@ Solution: There are multiple ways you can check the git repository and track the
 	c) git diff - This command would provide you with a set of comparisons. some can be file based &
 some can be content based.
 
+4) Assuming that you are currently within a Git repository that includes several commits, write the command (or commands) that will display the changes from the commit with the ID of abc123.
+	
+Solution : there are various ways to check the commit changes between 2 different commits. if we are looking for a specific ID then the command 'git diff abc123' can be used to check the difference in commits and display the changes
